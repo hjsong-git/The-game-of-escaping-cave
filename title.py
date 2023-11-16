@@ -119,3 +119,4 @@ class ScorpionKiller(Title):
         return ''
 
 titles = [Mage(),ShieldWarrior(),Archer(), GoldCollector(), ScorpionKiller()]
+no cr
